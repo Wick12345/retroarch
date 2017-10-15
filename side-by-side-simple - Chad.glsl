@@ -1,11 +1,11 @@
-#pragma parameter eye_sep "Eye Separation" .65 -1.0 5.0 0.05
+#pragma parameter eye_sep "Eye Separation" .8 -1.0 5.0 0.05
 #pragma parameter y_loc "Vertical Placement" .45 -1.0 1.0 0.05
-#pragma parameter ana_zoom "Zoom" .85 -2.0 2.0 0.05
+#pragma parameter ana_zoom "Zoom" 1,1 -2.0 2.0 0.05
 #pragma parameter WIDTH "Side-by-Side Image Width" 3.05 1.0 7.0 0.05
 #pragma parameter HEIGHT "Side-by-Side Image Height" 2.0 1.0 5.0 0.1
 #pragma parameter BOTH "Horizontal Placement" 0.99 -2.0 2.0 0.005
-#pragma parameter warpX "warpX" 0.3 0.0 0.5 0.05
-#pragma parameter warpY "warpY" 0.3 0.0 0.5 0.05
+#pragma parameter warpX "warpX" 0 0.0 0.5 0.05
+#pragma parameter warpY "warpY" 0 0.0 0.5 0.05
 
 #if defined(VERTEX)
 
