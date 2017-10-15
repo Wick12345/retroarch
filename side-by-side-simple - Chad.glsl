@@ -1,6 +1,6 @@
-#pragma parameter eye_sep "Eye Separation" 0.35 -1.0 5.0 0.05
-#pragma parameter y_loc "Vertical Placement" 0.30 -1.0 1.0 0.05
-#pragma parameter ana_zoom "Zoom" 0.75 -2.0 2.0 0.05
+#pragma parameter eye_sep "Eye Separation" -1.0 -1.0 5.0 0.05
+#pragma parameter y_loc "Vertical Placement" -1.0 -1.0 1.0 0.05
+#pragma parameter ana_zoom "Zoom" -1.0 -2.0 2.0 0.05
 #pragma parameter WIDTH "Side-by-Side Image Width" 3.05 1.0 7.0 0.05
 #pragma parameter HEIGHT "Side-by-Side Image Height" 2.0 1.0 5.0 0.1
 #pragma parameter BOTH "Horizontal Placement" 0.64 -2.0 2.0 0.005
